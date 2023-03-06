@@ -1,0 +1,733 @@
+[
+  {
+    "PV": "get up",
+    "TV": "levantarse",
+    "EX": "I usually get up at 6 am.",
+    "EXT": "Generalmente me levanto a las 6 am."
+  },
+  {
+    "PV": "turn on",
+    "TV": "encender",
+    "EX": "Can you turn on the TV please?",
+    "EXT": "¿Puedes encender la tele por favor?"
+  },
+  {
+    "PV": "go out",
+    "TV": "salir",
+    "EX": "I'm going out with my friends tonight.",
+    "EXT": "Voy a salir con mis amigos esta noche."
+  },
+  {
+    "PV": "look for",
+    "TV": "buscar",
+    "EX": "I'm looking for my keys. Have you seen them?",
+    "EXT": "Estoy buscando mis llaves. ¿Las has visto?"
+  },
+  {
+    "PV": "put on",
+    "TV": "ponerse",
+    "EX": "I need to put on some warm clothes.",
+    "EXT": "Necesito ponerme ropa abrigada."
+  },
+  {
+    "PV": "take off",
+    "TV": "quitarse",
+    "EX": "You should take off your shoes before entering the house.",
+    "EXT": "Deberías quitarte los zapatos antes de entrar a la casa."
+  },
+  {
+    "PV": "get on",
+    "TV": "subir (a un vehículo)",
+    "EX": "I'm getting on the train at 8 pm.",
+    "EXT": "Voy a subir al tren a las 8 pm."
+  },
+  {
+    "PV": "get off",
+    "TV": "bajar (de un vehículo)",
+    "EX": "We need to get off at the next stop.",
+    "EXT": "Tenemos que bajar en la próxima parada."
+  },
+  {
+    "PV": "give up",
+    "TV": "rendirse",
+    "EX": "Don't give up, you can do it!",
+    "EXT": "¡No te rindas, tú puedes hacerlo!"
+  },
+  {
+    "PV": "set up",
+    "TV": "establecer, montar",
+    "EX": "We need to set up the chairs before the meeting.",
+    "EXT": "Tenemos que establecer las sillas antes de la reunión."
+  },
+  {
+    "PV": "pick up",
+    "TV": "recoger, recoger a alguien",
+    "EX": "I'll pick you up at the airport.",
+    "EXT": "Te recogeré en el aeropuerto."
+  },
+  {
+    "PV": "go back",
+    "TV": "volver",
+    "EX": "I'm going back to my hometown next month.",
+    "EXT": "Voy a volver a mi ciudad natal el próximo mes."
+  },
+  {
+    "PV": "bring up",
+    "TV": "mencionar, criar",
+    "EX": "Don't bring up that topic again, it makes me uncomfortable.",
+    "EXT": "No vuelvas a mencionar ese tema, me hace sentir incómodo."
+  },
+  {
+"PV": "call back",
+"TV": "devolver una llamada",
+"EX": "I'll call you back later when I'm free.",
+"EXT": "Te devolveré la llamada más tarde cuando esté libre."
+},
+{
+"PV": "come in",
+"TV": "entrar",
+"EX": "Please come in and have a seat.",
+"EXT": "Por favor entra y siéntate."
+},
+{
+"PV": "come up",
+"TV": "surgir, acercarse",
+"EX": "We need to come up with a new plan.",
+"EXT": "Tenemos que idear un nuevo plan."
+},
+{
+"PV": "look up",
+"TV": "buscar información",
+"EX": "I'll look up the address on the internet.",
+"EXT": "Buscaré la dirección en internet."
+},
+{
+"PV": "put away",
+"TV": "guardar, recoger",
+"EX": "Please put away your toys after playing.",
+"EXT": "Por favor guarda tus juguetes después de jugar."
+},
+{
+"PV": "run out",
+"TV": "quedarse sin",
+"EX": "I need to go to the store because we've run out of milk.",
+"EXT": "Necesito ir a la tienda porque nos hemos quedado sin leche."
+},
+{
+"PV": "stand up",
+"TV": "ponerse de pie",
+"EX": "Please stand up and introduce yourself.",
+"EXT": "Por favor ponte de pie e preséntate."
+},
+
+{
+    "PV": "call off",
+    "TV": "cancelar",
+    "EX": "The game was called off due to bad weather.",
+    "EXT": "El partido fue cancelado debido al mal tiempo."
+  },
+  {
+    "PV": "come across",
+    "TV": "encontrar, toparse con",
+    "EX": "I came across an interesting book at the library.",
+    "EXT": "Me encontré con un libro interesante en la biblioteca."
+  },
+  {
+    "PV": "come up with",
+    "TV": "idear, inventar",
+    "EX": "We need to come up with a new idea for the project.",
+    "EXT": "Tenemos que idear una nueva idea para el proyecto."
+  },
+  {
+    "PV": "count on",
+    "TV": "contar con",
+    "EX": "You can count on me to help you with your homework.",
+    "EXT": "Puedes contar conmigo para ayudarte con tu tarea."
+  },
+  {
+    "PV": "cut down on",
+    "TV": "reducir, disminuir",
+    "EX": "I'm trying to cut down on sugar in my diet.",
+    "EXT": "Estoy tratando de reducir el azúcar en mi dieta."
+  },
+  {
+    "PV": "figure out",
+    "TV": "descubrir, averiguar",
+    "EX": "I need to figure out how to fix my computer.",
+    "EXT": "Necesito descubrir cómo arreglar mi computadora."
+  },
+  {
+    "PV": "get along with",
+    "TV": "llevarse bien con",
+    "EX": "I get along with my coworkers very well.",
+    "EXT": "Me llevo muy bien con mis compañeros de trabajo."
+  },
+  {
+    "PV": "get away",
+    "TV": "escapar, salir de vacaciones",
+    "EX": "I need to get away from the city and take a vacation.",
+    "EXT": "Necesito escapar de la ciudad y tomar unas vacaciones."
+  },
+  {
+    "PV": "get over",
+    "TV": "superar, recuperarse",
+    "EX": "It took me a long time to get over my breakup.",
+    "EXT": "Me tomó mucho tiempo superar mi ruptura."
+  },
+  {
+    "PV": "give up",
+    "TV": "rendirse, abandonar",
+    "EX": "I won't give up until I achieve my goals.",
+    "EXT": "No me rendiré hasta alcanzar mis objetivos."
+  },
+  {
+    "PV": "go ahead",
+    "TV": "adelante, continuar",
+    "EX": "You can go ahead and start eating without me.",
+    "EXT": "Puedes continuar y empezar a comer sin mí."
+  },
+  {
+    "PV": "go through",
+    "TV": "pasar por, atravesar",
+    "EX": "I had to go through a lot of paperwork to get my visa.",
+    "EXT": "Tuve que pasar por mucho papeleo para obtener mi visa."
+  },
+  {
+    "PV": "hang out",
+    "TV": "pasar tiempo, salir juntos",
+    "EX": "We like to hang out at the beach on weekends.",
+    "EXT": "Nos gusta pasar tiempo en la playa los fines de semana."
+  },
+
+  {
+"PV": "hang out",
+"TV": "pasar el rato",
+"EX": "We used to hang out at the park on Saturdays.",
+"EXT": "Solíamos pasar el rato en el parque los sábados."
+},
+{
+"PV": "hold on",
+"TV": "esperar, aguardar",
+"EX": "Please hold on while I transfer you to the next available representative.",
+"EXT": "Por favor, espere mientras lo transfiero al siguiente representante disponible."
+},
+{
+"PV": "keep up with",
+"TV": "mantenerse al día con",
+"EX": "It's hard to keep up with all the changes happening in the industry.",
+"EXT": "Es difícil mantenerse al día con todos los cambios que suceden en la industria."
+},
+{
+"PV": "let down",
+"TV": "decepcionar",
+"EX": "I felt really let down when my friend didn't show up to my party.",
+"EXT": "Me sentí muy decepcionado cuando mi amigo no vino a mi fiesta."
+},
+{
+"PV": "look forward to",
+"TV": "esperar con ilusión",
+"EX": "I'm really looking forward to my vacation next week.",
+"EXT": "Realmente espero con ilusión mi vacación la próxima semana."
+},
+{
+"PV": "make up",
+"TV": "inventar, reconciliarse",
+"EX": "I made up a story to explain why I was late.",
+"EXT": "Inventé una historia para explicar por qué llegué tarde."
+},
+{
+"PV": "pick up",
+"TV": "recoger, aprender",
+"EX": "I need to pick up my dry cleaning after work.",
+"EXT": "Necesito recoger mi ropa limpia después del trabajo."
+},
+{
+"PV": "put off",
+"TV": "posponer",
+"EX": "I'll have to put off our meeting until next week.",
+"EXT": "Tendré que posponer nuestra reunión hasta la próxima semana."
+},
+{
+"PV": "run into",
+"TV": "encontrarse con",
+"EX": "I ran into an old friend at the grocery store yesterday.",
+"EXT": "Me encontré con un viejo amigo en la tienda de comestibles ayer."
+},
+{
+"PV": "set up",
+"TV": "establecer, montar",
+"EX": "We need to set up the new computer before we can start using it.",
+"EXT": "Necesitamos establecer la nueva computadora antes de poder empezar a usarla."
+},
+{
+"PV": "show up",
+"TV": "aparecer, presentarse",
+"EX": "I hope my guests show up on time for the party.",
+"EXT": "Espero que mis invitados aparezcan a tiempo para la fiesta."
+},
+
+{
+"PV": "take after",
+"TV": "parecerse a alguien",
+"EX": "She really takes after her mother in terms of personality.",
+"EXT": "Ella realmente se parece a su madre en cuanto a personalidad."
+},
+{
+"PV": "take care of",
+"TV": "cuidar de",
+"EX": "I need to take care of my sick grandmother this weekend.",
+"EXT": "Necesito cuidar de mi abuela enferma este fin de semana."
+},
+{
+"PV": "take off",
+"TV": "despegar, quitarse",
+"EX": "The plane is about to take off, so please fasten your seatbelt.",
+"EXT": "El avión está a punto de despegar, así que por favor abróchese el cinturón de seguridad."
+},
+{
+"PV": "turn down",
+"TV": "rechazar, bajar el volumen",
+"EX": "I had to turn down the job offer because the salary was too low.",
+"EXT": "Tuve que rechazar la oferta de trabajo porque el salario era demasiado bajo."
+},
+{
+"PV": "turn off",
+"TV": "apagar, no gustar",
+"EX": "Can you turn off the lights before you leave the room?",
+"EXT": "¿Puedes apagar las luces antes de salir de la habitación?"
+},
+{
+"PV": "turn on",
+"TV": "encender, gustar",
+"EX": "He turned on the TV to watch his favorite show.",
+"EXT": "Encendió la televisión para ver su programa favorito."
+},
+{
+"PV": "turn up",
+"TV": "aparecer, subir el volumen",
+"EX": "I was worried that she wouldn't come, but she finally turned up at the party.",
+"EXT": "Estaba preocupado de que ella no viniera, pero finalmente apareció en la fiesta."
+},
+{
+"PV": "use up",
+"TV": "usar completamente, agotar",
+"EX": "I have to buy more shampoo because I've used up the entire bottle.",
+"EXT": "Tengo que comprar más champú porque he usado toda la botella."
+},
+{
+"PV": "watch out for",
+"TV": "tener cuidado con, estar atento a",
+"EX": "Watch out for cars when you cross the street.",
+"EXT": "Ten cuidado con los coches cuando cruces la calle."
+},
+{
+"PV": "work out",
+"TV": "ejercitarse, resolver",
+"EX": "I usually work out at the gym after work.",
+"EXT": "Normalmente hago ejercicio en el gimnasio después del trabajo."
+},
+{
+"PV": "ask out",
+"TV": "invitar a salir",
+"EX": "He finally asked her out after weeks of trying to build up the courage.",
+"EXT": "Finalmente la invitó a salir después de semanas tratando de reunir valor."
+},
+
+{
+"PV": "back up",
+"TV": "respaldar, retroceder",
+"EX": "Make sure you back up all your important files before upgrading your computer.",
+"EXT": "Asegúrate de respaldar todos tus archivos importantes antes de actualizar tu computadora."
+},
+{
+"PV": "blow up",
+"TV": "explotar, hacer estallar",
+"EX": "The kids love to blow up balloons for parties.",
+"EXT": "A los niños les encanta inflar globos para las fiestas."
+},
+{
+"PV": "break down",
+"TV": "averiarse, descomponerse",
+"EX": "My car broke down on the way to work this morning.",
+"EXT": "Mi coche se descompuso en el camino al trabajo esta mañana."
+},
+{
+"PV": "bring about",
+"TV": "provocar, causar",
+"EX": "The new policies brought about significant changes in the company.",
+"EXT": "Las nuevas políticas provocaron cambios significativos en la empresa."
+},
+{
+"PV": "bring in",
+"TV": "traer, introducir",
+"EX": "We need to bring in more revenue if we want to expand our business.",
+"EXT": "Necesitamos traer más ingresos si queremos expandir nuestro negocio."
+},
+{
+"PV": "brush up on",
+"TV": "repasar, actualizar",
+"EX": "I need to brush up on my Spanish before my trip to Mexico.",
+"EXT": "Necesito repasar mi español antes de mi viaje a México."
+},
+{
+"PV": "check out",
+"TV": "revisar, comprobar",
+"EX": "I need to check out of the hotel by noon.",
+"EXT": "Necesito hacer el check out del hotel antes del mediodía."
+},
+{
+"PV": "come back",
+"TV": "volver, regresar",
+"EX": "I'll come back to visit you next month.",
+"EXT": "Volveré a visitarte el próximo mes."
+},
+{
+"PV": "cut off",
+"TV": "cortar, interrumpir",
+"EX": "I got cut off on the phone before I could finish my sentence.",
+"EXT": "Me cortaron en el teléfono antes de que pudiera terminar mi frase."
+},
+{
+"PV": "do over",
+"TV": "hacer de nuevo, rehacer",
+"EX": "I have to do over my math homework because I made too many mistakes.",
+"EXT": "Tengo que rehacer mi tarea de matemáticas porque cometí demasiados errores."
+},
+
+{
+"PV": "dress up",
+"TV": "arreglarse",
+"EX": "We need to dress up for the wedding.",
+"EXT": "Necesitamos arreglarnos para la boda."
+},
+{
+"PV": "drop off",
+"TV": "dejar",
+"EX": "Can you drop me off at the airport?",
+"EXT": "¿Puedes dejarme en el aeropuerto?"
+},
+{
+"PV": "eat out",
+"TV": "comer fuera",
+"EX": "Let's eat out tonight instead of cooking at home.",
+"EXT": "Comamos fuera esta noche en lugar de cocinar en casa."
+},
+{
+"PV": "fall apart",
+"TV": "desmoronarse",
+"EX": "The company's plans fell apart when their main investor pulled out.",
+"EXT": "Los planes de la empresa se desmoronaron cuando su inversor principal se retiró."
+},
+{
+"PV": "fill out",
+"TV": "llenar",
+"EX": "Please fill out this form and return it to the office.",
+"EXT": "Por favor, llene este formulario y devuélvalo a la oficina."
+},
+{
+"PV": "find out",
+"TV": "averiguar",
+"EX": "I need to find out what time the concert starts.",
+"EXT": "Necesito averiguar a qué hora comienza el concierto."
+},
+{
+"PV": "get in",
+"TV": "entrar",
+"EX": "Hurry up and get in the car!",
+"EXT": "¡Apúrate y entra al carro!"
+},
+{
+"PV": "get out",
+"TV": "salir",
+"EX": "I need to get out of the house more often.",
+"EXT": "Necesito salir de la casa más a menudo."
+},
+{
+"PV": "give in",
+"TV": "ceder",
+"EX": "After arguing for hours, I finally gave in and let my sister have her way.",
+"EXT": "Después de discutir durante horas, finalmente cedí y dejé que mi hermana tuviera su manera."
+},
+{
+"PV": "go off",
+"TV": "sonar, explotar",
+"EX": "The alarm clock went off at six o'clock this morning.",
+"EXT": "El despertador sonó a las seis de la mañana hoy."
+},
+{
+"PV": "go over",
+"TV": "repasar",
+"EX": "Let's go over the plan one more time before we present it to the team.",
+"EXT": "Repasemos el plan una vez más antes de presentarlo al equipo."
+},
+{
+"PV": "grow up",
+"TV": "crecer",
+"EX": "I grew up in a small town in the Midwest.",
+"EXT": "Crecí en una pequeña ciudad en el Medio Oeste."
+},
+
+{
+"PV": "hang up",
+"TV": "colgar (teléfono)",
+"EX": "I'm going to hang up now.",
+"EXT": "Voy a colgar ahora."
+},
+{
+"PV": "help out",
+"TV": "ayudar",
+"EX": "Can you help me out with this?",
+"EXT": "¿Me puedes ayudar con esto?"
+},
+{
+"PV": "keep on",
+"TV": "continuar",
+"EX": "You should keep on practicing.",
+"EXT": "Deberías seguir practicando."
+},
+{
+"PV": "knock out",
+"TV": "noquear",
+"EX": "The boxer knocked his opponent out.",
+"EXT": "El boxeador noqueó a su oponente."
+},
+{
+"PV": "lay off",
+"TV": "despedir",
+"EX": "The company had to lay off some employees.",
+"EXT": "La empresa tuvo que despedir a algunos empleados."
+},
+{
+"PV": "look after",
+"TV": "cuidar de",
+"EX": "I need someone to look after my dog.",
+"EXT": "Necesito alguien que cuide de mi perro."
+},
+{
+"PV": "make out",
+"TV": "entender, ver",
+"EX": "I can't make out what you're saying.",
+"EXT": "No entiendo lo que estás diciendo."
+},
+{
+"PV": "mess up",
+"TV": "estropear",
+"EX": "I messed up my painting.",
+"EXT": "Estropeé mi pintura."
+},
+{
+"PV": "pass out",
+"TV": "desmayarse",
+"EX": "He passed out from the heat.",
+"EXT": "Se desmayó por el calor."
+},
+{
+"PV": "pay back",
+"TV": "devolver dinero",
+"EX": "I promise to pay you back.",
+"EXT": "Prometo devolverte el dinero."
+},
+{
+"PV": "pick out",
+"TV": "elegir",
+"EX": "I'm having trouble picking out a gift for her.",
+"EXT": "Me cuesta elegir un regalo para ella."
+},
+{
+"PV": "point out",
+"TV": "señalar",
+"EX": "She pointed out the mistake in my essay.",
+"EXT": "Ella señaló el error en mi ensayo."
+},
+{
+"PV": "put away",
+"TV": "guardar",
+"EX": "Please put away your toys.",
+"EXT": "Por favor guarda tus juguetes."
+},
+
+{
+"PV": "put on",
+"TV": "ponerse",
+"EX": "I need to put on my shoes.",
+"EXT": "Necesito ponerme mis zapatos."
+},
+{
+"PV": "put out",
+"TV": "apagar",
+"EX": "Can you put out the candles, please?",
+"EXT": "¿Puedes apagar las velas, por favor?"
+},
+{
+"PV": "run out of",
+"TV": "quedarse sin",
+"EX": "I ran out of milk this morning.",
+"EXT": "Me quedé sin leche esta mañana."
+},
+{
+"PV": "see off",
+"TV": "despedir",
+"EX": "I'll see you off at the airport.",
+"EXT": "Te despediré en el aeropuerto."
+},
+{
+"PV": "set off",
+"TV": "partir",
+"EX": "We're going to set off early tomorrow.",
+"EXT": "Vamos a partir temprano mañana."
+},
+{
+"PV": "shut down",
+"TV": "cerrar",
+"EX": "The store shuts down at 9pm.",
+"EXT": "La tienda cierra a las 9pm."
+},
+{
+"PV": "sit down",
+"TV": "sentarse",
+"EX": "Let's sit down and talk.",
+"EXT": "Vamos a sentarnos y hablar."
+},
+{
+"PV": "stand up",
+"TV": "levantarse",
+"EX": "Please stand up and introduce yourself.",
+"EXT": "Por favor levántate y preséntate."
+},
+{
+"PV": "take on",
+"TV": "asumir",
+"EX": "I can't take on any more work right now.",
+"EXT": "No puedo asumir más trabajo en este momento."
+},
+{
+"PV": "talk over",
+"TV": "discutir",
+"EX": "Let's talk over our options.",
+"EXT": "Discutamos nuestras opciones."
+},
+{
+"PV": "tear up",
+"TV": "romper en pedazos",
+"EX": "She tore up the letter and threw it away.",
+"EXT": "Ella rompió en pedazos la carta y la tiró."
+},
+
+{
+"PV": "think over",
+"TV": "pensar en",
+"EX": "I need to think over your proposal.",
+"EXT": "Necesito pensar en tu propuesta."
+},
+{
+"PV": "throw away",
+"TV": "tirar",
+"EX": "I'm going to throw away this old shirt.",
+"EXT": "Voy a tirar esta camisa vieja."
+},
+{
+"PV": "throw up",
+"TV": "vomitar",
+"EX": "I think I'm going to throw up.",
+"EXT": "Creo que voy a vomitar."
+},
+{
+"PV": "try on",
+"TV": "probarse (ropa)",
+"EX": "Can I try on this shirt?",
+"EXT": "¿Puedo probarme esta camisa?"
+},
+{
+"PV": "try out",
+"TV": "probar (algo)",
+"EX": "I want to try out this new restaurant.",
+"EXT": "Quiero probar este nuevo restaurante."
+},
+{
+"PV": "turn in",
+"TV": "entregar (un trabajo)",
+"EX": "I need to turn in my essay tomorrow.",
+"EXT": "Necesito entregar mi ensayo mañana."
+},
+{
+"PV": "wake up",
+"TV": "despertarse",
+"EX": "I usually wake up at 7am.",
+"EXT": "Normalmente me despierto a las 7am."
+},
+{
+"PV": "warm up",
+"TV": "calentar (el cuerpo)",
+"EX": "Don't forget to warm up before exercising.",
+"EXT": "No olvides calentar el cuerpo antes de hacer ejercicio."
+},
+
+{
+"PV": "wear out",
+"TV": "desgastar",
+"EX": "These shoes have worn out.",
+"EXT": "Estos zapatos se han desgastado."
+},
+{
+"PV": "work on",
+"TV": "trabajar en",
+"EX": "I need to work on my presentation.",
+"EXT": "Necesito trabajar en mi presentación."
+},
+{
+"PV": "wrap up",
+"TV": "envolver",
+"EX": "I need to wrap up this gift.",
+"EXT": "Necesito envolver este regalo."
+},
+{
+"PV": "write down",
+"TV": "anotar",
+"EX": "I need to write down this phone number.",
+"EXT": "Necesito anotar este número de teléfono."
+},
+{
+"PV": "zip up",
+"TV": "cerrar con cremallera",
+"EX": "Can you help me zip up my dress?",
+"EXT": "¿Puedes ayudarme a cerrar con cremallera mi vestido?"
+},
+{
+"PV": "ask for",
+"TV": "pedir",
+"EX": "I'm going to ask for a raise.",
+"EXT": "Voy a pedir un aumento de sueldo."
+},
+{
+"PV": "back off",
+"TV": "retroceder",
+"EX": "You need to back off and give me some space.",
+"EXT": "Necesitas retroceder y darme algo de espacio."
+},
+{
+"PV": "break up",
+"TV": "romper",
+"EX": "They decided to break up.",
+"EXT": "Decidieron romper."
+},
+{
+"PV": "bring back",
+"TV": "traer de vuelta",
+"EX": "Can you bring back some souvenirs from your trip?",
+"EXT": "¿Puedes traer de vuelta algunos recuerdos de tu viaje?"
+},
+{
+"PV": "catch up",
+"TV": "ponerse al día",
+"EX": "I need to catch up on my emails.",
+"EXT": "Necesito ponerme al día con mis correos electrónicos."
+},
+{
+"PV": "clean up",
+"TV": "limpiar",
+"EX": "We need to clean up the kitchen.",
+"EXT": "Necesitamos limpiar la cocina."
+}
+
+
+]

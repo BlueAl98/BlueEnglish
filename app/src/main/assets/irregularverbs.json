@@ -1,0 +1,1155 @@
+[
+  {
+    "infinitive": "arise",
+    "past": "arose",
+    "participle": "arisen",
+    "translation": "surgir",
+    "example": "I had to arise early to catch the train.",
+    "espverb": "Tuve que levantarme temprano para tomar el tren."
+  },
+  {
+    "infinitive": "awake",
+    "past": "awoke",
+    "participle": "awoken",
+    "translation": "despertar(se)",
+    "example": "I usually awake at 6am on weekdays.",
+    "espverb": "Normalmente me despierto a las 6am en los días de semana."
+  },
+  {
+    "infinitive": "bear",
+    "past": "bore",
+    "participle": "borne",
+    "translation": "soportar",
+    "example": "She couldn't bear the pain any longer.",
+    "espverb": "Ella no pudo soportar el dolor por más tiempo."
+  },
+  {
+    "infinitive": "beat",
+    "past": "beat",
+    "participle": "beaten",
+    "translation": "golpear",
+    "example": "He beat the drum loudly.",
+    "espverb": "Él golpeó el tambor fuertemente."
+  },
+  {
+    "infinitive": "become",
+    "past": "became",
+    "participle": "become",
+    "translation": "convertirse en",
+    "example": "She became a doctor after years of studying.",
+    "espverb": "Ella se convirtió en doctora después de años de estudio."
+  },
+  {
+    "infinitive": "begin",
+    "past": "began",
+    "participle": "begun",
+    "translation": "empezar",
+    "example": "The concert began at 8pm.",
+    "espverb": "El concierto empezó a las 8pm."
+  },
+  {
+    "infinitive": "bend",
+    "past": "bent",
+    "participle": "bent",
+    "translation": "doblar(se)",
+    "example": "He bent the metal rod with his bare hands.",
+    "espverb": "Él dobló la barra de metal con sus manos desnudas."
+  },
+  {
+    "infinitive": "bet",
+    "past": "bet",
+    "participle": "bet",
+    "translation": "apostar",
+    "example": "She bet all her money on the horse race.",
+    "espverb": "Ella apostó todo su dinero en la carrera de caballos."
+  },
+  {
+    "infinitive": "bid",
+    "past": "bid",
+    "participle": "bid",
+    "translation": "pujar",
+    "example": "He bid $100 for the painting at the auction.",
+    "espverb": "Él pujó $100 por la pintura en la subasta."
+  },
+  {
+    "infinitive": "bind",
+    "past": "bound",
+    "participle": "bound",
+    "translation": "encuadernar",
+    "example": "The book was bound in leather.",
+    "espverb": "El libro estaba encuadernado en cuero."
+  },
+  {
+    "infinitive": "bite",
+    "past": "bit",
+    "participle": "bitten",
+    "translation": "morder",
+    "example": "My dog bit me when I tried to take away its toy.",
+    "espverb": "Mi perro me mordió cuando intenté quitarle su juguete."
+  },
+  {
+    "infinitive": "bleed",
+    "past": "bled",
+    "participle": "bled",
+    "translation": "sangrar",
+    "example": "She bled from a small cut on her finger.",
+    "espverb": "Ella sangró por un pequeño corte en su dedo."
+  },
+  {
+    "infinitive": "blow",
+    "past": "blew",
+    "participle": "blown",
+    "translation": "soplar",
+    "example": "The wind blew so hard that it knocked over the garbage cans.",
+    "espverb": "El viento sopló tan fuerte que tiró los botes de basura."
+  },
+  {
+    "infinitive": "break",
+    "past": "broke",
+    "participle": "broken",
+    "translation": "romper",
+    "example": "I accidentally broke the vase when I bumped into the table.",
+    "espverb": "Accidentalmente rompí el jarrón cuando choqué contra la mesa."
+  },
+  {
+    "infinitive": "breed",
+    "past": "bred",
+    "participle": "bred",
+    "translation": "criar",
+    "example": "She has been breeding dogs for over 10 years.",
+    "espverb": "Ella ha estado criando perros durante más de 10 años."
+  },
+  {
+    "infinitive": "bring",
+    "past": "brought",
+    "participle": "brought",
+    "translation": "traer",
+    "example": "Can you please bring me a glass of water?",
+    "espverb": "¿Puedes por favor traerme un vaso de agua?"
+  },
+  {
+    "infinitive": "build",
+    "past": "built",
+    "participle": "built",
+    "translation": "construir",
+    "example": "They built a new house in just six months.",
+    "espverb": "Construyeron una nueva casa en solo seis meses."
+  },
+  {
+    "infinitive": "burn",
+    "past": "burnt",
+    "participle": "burnt",
+    "translation": "quemar(se)",
+    "example": "I burnt my hand on the stove.",
+    "espverb": "Me quemé la mano en la estufa."
+  },
+  {
+    "infinitive": "burst",
+    "past": "burst",
+    "participle": "burst",
+    "translation": "estallar",
+    "example": "The balloon burst when she tried to blow it up too much.",
+    "espverb": "El globo estalló cuando intentó inflarlo demasiado."
+  },
+  {
+    "infinitive": "buy",
+    "past": "bought",
+    "participle": "bought",
+    "translation": "comprar",
+    "example": "I bought a new dress for the wedding.",
+    "espverb": "Compré un vestido nuevo para la boda."
+  },
+  {
+    "infinitive": "cast",
+    "past": "cast",
+    "participle": "cast",
+    "translation": "tirar",
+    "example": "He cast the fishing line into the water.",
+    "espverb": "Él lanzó la línea de pesca al agua."
+  },
+  {
+    "infinitive": "catch",
+    "past": "caught",
+    "participle": "caught",
+    "translation": "coger",
+    "example": "I caught the ball with one hand.",
+    "espverb": "Cogí la pelota con una mano."
+  },
+  {
+    "infinitive": "choose",
+    "past": "chose",
+    "participle": "chosen",
+    "translation": "elegir",
+    "example": "She chose the red dress for the party.",
+    "espverb": "Ella eligió el vestido rojo para la fiesta."
+  },
+  {
+    "infinitive": "cling",
+    "past": "clung",
+    "participle": "clung",
+    "translation": "aferrarse",
+    "example": "The cat clung to the tree branch for safety.",
+    "espverb": "El gato se aferró a la rama del árbol por seguridad."
+  },
+  {
+    "infinitive": "come",
+    "past": "came",
+    "participle": "come",
+    "translation": "venir",
+    "example": "He came to my house for dinner.",
+    "espverb": "Vino a mi casa a cenar."
+  },
+  {
+    "infinitive": "cost",
+    "past": "cost",
+    "participle": "cost",
+    "translation": "costar",
+    "example": "The car cost $20,000.",
+    "espverb": "El coche costó $20,000."
+  },
+  {
+    "infinitive": "creep",
+    "past": "crept",
+    "participle": "crept",
+    "translation": "arrastrarse",
+    "example": "The spider crept slowly across the floor.",
+    "espverb": "La araña se arrastró lentamente por el piso."
+  },
+  {
+    "infinitive": "cut",
+    "past": "cut",
+    "participle": "cut",
+    "translation": "cortar",
+    "example": "He cut his finger while chopping vegetables.",
+    "espverb": "Él cortó su dedo mientras cortaba verduras."
+  },
+  {
+    "infinitive": "deal",
+    "past": "dealt",
+    "participle": "dealt",
+    "translation": "tratar",
+    "example": "The company dealt with the issue promptly.",
+    "espverb": "La compañía trató el problema rápidamente."
+  },
+  {
+    "infinitive": "dig",
+    "past": "dug",
+    "participle": "dug",
+    "translation": "cavar",
+    "example": "He dug a hole in the backyard to plant a tree.",
+    "espverb": "Él cavó un hoyo en el patio trasero para plantar un árbol."
+  },
+  {
+    "infinitive": "do",
+    "past": "did",
+    "participle": "done",
+    "translation": "hacer",
+    "example": "She did her homework before going out with friends.",
+    "espverb": "Ella hizo su tarea antes de salir con amigos."
+  },
+  {
+    "infinitive": "draw",
+    "past": "drew",
+    "participle": "drawn",
+    "translation": "dibujar",
+    "example": "He drew a picture of his dog.",
+    "espverb": "Él dibujó una imagen de su perro."
+  },
+  {
+    "infinitive": "dream",
+    "past": "dreamt",
+    "participle": "dreamt",
+    "translation": "soñar",
+    "example": "She dreamt about traveling to Japan.",
+    "espverb": "Ella soñó con viajar a Japón."
+  },
+  {
+    "infinitive": "drink",
+    "past": "drank",
+    "participle": "drunk",
+    "translation": "beber",
+    "example": "He drank a glass of water after his workout.",
+    "espverb": "Él bebió un vaso de agua después de su entrenamiento."
+  },
+  {
+    "infinitive": "drive",
+    "past": "drove",
+    "participle": "driven",
+    "translation": "conducir",
+    "example": "She drove her car to work this morning.",
+    "espverb": "Ella condujo su coche al trabajo esta mañana."
+  },
+  {
+    "infinitive": "eat",
+    "past": "ate",
+    "participle": "eaten",
+    "translation": "comer",
+    "example": "I have eaten breakfast already.",
+    "espverb": "Ya he desayunado."
+  },
+  {
+    "infinitive": "fall",
+    "past": "fell",
+    "participle": "fallen",
+    "translation": "caer(se)",
+    "example": "He fell down the stairs and hurt his ankle.",
+    "espverb": "Él se cayó por las escaleras y se lastimó el tobillo."
+  },
+  {
+    "infinitive": "feed",
+    "past": "fed",
+    "participle": "fed",
+    "translation": "alimentar",
+    "example": "I fed the cats before leaving the house.",
+    "espverb": "Alimenté a los gatos antes de salir de la casa."
+  },
+  {
+    "infinitive": "feel",
+    "past": "felt",
+    "participle": "felt",
+    "translation": "sentirse",
+    "example": "She felt sick after eating too much junk food.",
+    "espverb": "Se sintió enferma después de comer demasiada comida chatarra."
+  },
+  {
+    "infinitive": "fight",
+    "past": "fought",
+    "participle": "fought",
+    "translation": "pelearse",
+    "example": "The two boys fought over the last piece of cake.",
+    "espverb": "Los dos niños pelearon por el último pedazo de pastel."
+  },
+  {
+    "infinitive": "find",
+    "past": "found",
+    "participle": "found",
+    "translation": "encontrar",
+    "example": "I finally found my lost keys in the couch cushions.",
+    "espverb": "Finalmente encontré mis llaves perdidas en los cojines del sofá."
+  },
+  {
+    "infinitive": "flee",
+    "past": "fled",
+    "participle": "fled",
+    "translation": "huir",
+    "example": "The robbers fled the scene of the crime before the police arrived.",
+    "espverb": "Los ladrones huyeron de la escena del crimen antes de que llegara la policía."
+  },
+  {
+    "infinitive": "fly",
+    "past": "flew",
+    "participle": "flown",
+    "translation": "volar",
+    "example": "I have never flown in a helicopter before.",
+    "espverb": "Nunca he volado en helicóptero antes."
+  },
+  {
+    "infinitive": "forbid",
+    "past": "forbade",
+    "participle": "forbidden",
+    "translation": "prohibir",
+    "example": "My parents forbade me from going to the party.",
+    "espverb": "Mis padres me prohibieron ir a la fiesta."
+  },
+  {
+    "infinitive": "forget",
+    "past": "forgot",
+    "participle": "forgotten",
+    "translation": "olvidar(se)",
+    "example": "I forgot to turn off the stove before leaving the house.",
+    "espverb": "Olvidé apagar la estufa antes de salir de la casa."
+  },
+  {
+    "infinitive": "forgive",
+    "past": "forgave",
+    "participle": "forgiven",
+    "translation": "perdonar",
+    "example": "I forgave my friend for forgetting my birthday.",
+    "espverb": "Yo perdoné a mi amigo por olvidar mi cumpleaños."
+  },
+  {
+    "infinitive": "freeze",
+    "past": "froze",
+    "participle": "frozen",
+    "translation": "helar(se)",
+    "example": "I froze my hands when I went out without gloves.",
+    "espverb": "Helé mis manos cuando salí sin guantes."
+  },
+  {
+    "infinitive": "get",
+    "past": "got",
+    "participle": "got",
+    "translation": "conseguir",
+    "example": "I got a new job last week.",
+    "espverb": "Conseguí un trabajo nuevo la semana pasada."
+  },
+  {
+    "infinitive": "give",
+    "past": "gave",
+    "participle": "given",
+    "translation": "dar",
+    "example": "I gave my sister a present for her birthday.",
+    "espverb": "Le di un regalo a mi hermana por su cumpleaños."
+  },
+  {
+    "infinitive": "go",
+    "past": "went",
+    "participle": "gone",
+    "translation": "irse",
+    "example": "I went to the store to buy some groceries.",
+    "espverb": "Fui a la tienda a comprar algunas cosas."
+  },
+  {
+    "infinitive": "grind",
+    "past": "ground",
+    "participle": "ground",
+    "translation": "moler",
+    "example": "I ground some coffee beans for my morning cup of coffee.",
+    "espverb": "Molí algunos granos de café para mi taza de café de la mañana."
+  },
+  {
+    "infinitive": "grow",
+    "past": "grew",
+    "participle": "grown",
+    "translation": "crecer",
+    "example": "The plants in my garden grew taller after I fertilized them.",
+    "espverb": "Las plantas en mi jardín crecieron más altas después de que las fertilicé."
+  },
+  {
+    "infinitive": "hang",
+    "past": "hung",
+    "participle": "hung",
+    "translation": "colgar",
+    "example": "I hung a picture on the wall.",
+    "espverb": "Colgué un cuadro en la pared."
+  },
+  {
+    "infinitive": "have",
+    "past": "had",
+    "participle": "had",
+    "translation": "haber, tener",
+    "example": "I had a good time at the party last night.",
+    "espverb": "La pasé bien en la fiesta anoche."
+  },
+  {
+    "infinitive": "hear",
+    "past": "heard",
+    "participle": "heard",
+    "translation": "escuchar",
+    "example": "I heard a strange noise coming from the attic.",
+    "espverb": "Escuché un ruido extraño que venía del ático."
+  },
+  {
+    "infinitive": "hide",
+    "past": "hid",
+    "participle": "hidden",
+    "translation": "esconder(se)",
+    "example": "I hid the present in the closet so my sister wouldn't find it.",
+    "espverb": "Escondí el regalo en el armario para que mi hermana no lo encontrara."
+  },
+  {
+    "infinitive": "hit",
+    "past": "hit",
+    "participle": "hit",
+    "translation": "golpear",
+    "example": "I hit my hand against the table and it hurt.",
+    "espverb": "Golpeé mi mano contra la mesa y me dolió."
+  },
+  {
+    "infinitive": "hold",
+    "past": "held",
+    "participle": "held",
+    "translation": "agarrar(se)",
+    "example": "I held the door open for the person behind me.",
+    "espverb": "Le aguanté la puerta a la persona detrás de mí."
+  },
+  {
+    "infinitive": "hurt",
+    "past": "hurt",
+    "participle": "hurt",
+    "translation": "hacer daño",
+    "example": "I hurt my ankle while running.",
+    "espverb": "Me lastimé el tobillo mientras corría."
+  },
+  {
+    "infinitive": "keep",
+    "past": "kept",
+    "participle": "kept",
+    "translation": "guardar",
+    "example": "I keep my keys in my pocket.",
+    "espverb": "Guardo mis llaves en mi bolsillo."
+  },
+  {
+    "infinitive": "kneel",
+    "past": "knelt",
+    "participle": "knelt",
+    "translation": "arrodillarse",
+    "example": "He knelt down to tie his shoe.",
+    "espverb": "Él se arrodilló para amarrarse el zapato."
+  },
+  {
+    "infinitive": "know",
+    "past": "knew",
+    "participle": "known",
+    "translation": "saber, conocer",
+    "example": "I knew the answer to the question.",
+    "espverb": "Yo sabía la respuesta a la pregunta."
+  },
+  {
+    "infinitive": "lay",
+    "past": "laid",
+    "participle": "laid",
+    "translation": "poner",
+    "example": "She laid the baby down in the crib.",
+    "espverb": "Ella puso al bebé en la cuna."
+  },
+  {
+    "infinitive": "lead",
+    "past": "led",
+    "participle": "led",
+    "translation": "llevar",
+    "example": "The guide led the group through the forest.",
+    "espverb": "El guía llevó al grupo a través del bosque."
+  },
+  {
+    "infinitive": "lean",
+    "past": "leant",
+    "participle": "leant",
+    "translation": "apoyarse",
+    "example": "He leaned against the wall to rest.",
+    "espverb": "Él se apoyó contra la pared para descansar."
+  },
+  {
+    "infinitive": "leap",
+    "past": "leapt",
+    "participle": "leapt",
+    "translation": "brincar",
+    "example": "The cat leapt off the fence and ran away.",
+    "espverb": "El gato brincó de la cerca y huyó."
+  },
+  {
+    "infinitive": "learn",
+    "past": "learnt",
+    "participle": "learnt",
+    "translation": "aprender",
+    "example": "She learnt how to play the piano when she was young.",
+    "espverb": "Ella aprendió a tocar el piano cuando era joven."
+  },
+  {
+    "infinitive": "leave",
+    "past": "left",
+    "participle": "left",
+    "translation": "dejar",
+    "example": "I'm going to leave work early today.",
+    "espverb": "Voy a dejar el trabajo temprano hoy."
+  },
+  {
+
+    "infinitive": "let",
+    "past": "let",
+    "participle": "let",
+    "translation": "permitir",
+    "example": "Let me know if you need any help.",
+    "espverb": "Déjame saber si necesitas ayuda."
+  },
+  {
+    "infinitive": "lie",
+    "past": "lay",
+    "participle": "lain",
+    "translation": "echarse",
+    "example": "I'm going to lie down for a bit.",
+    "espverb": "Voy a echarme un rato."
+  },
+  {
+    "infinitive": "light",
+    "past": "lit",
+    "participle": "lit",
+    "translation": "encender(se)",
+    "example": "Can you light the candle for me?",
+    "espverb": "¿Puedes encender la vela por mí?"
+  },
+  {
+    "infinitive": "lose",
+    "past": "lost",
+    "participle": "lost",
+    "translation": "perder",
+    "example": "I always lose my keys.",
+    "espverb": "Siempre pierdo mis llaves."
+  },
+  {
+    "infinitive": "make",
+    "past": "made",
+    "participle": "made",
+    "translation": "hacer",
+    "example": "I'm going to make dinner for us.",
+    "espverb": "Voy a hacer la cena para nosotros."
+  },
+  {
+    "infinitive": "mean",
+    "past": "meant",
+    "participle": "meant",
+    "translation": "significar",
+    "example": "What does this word mean?",
+    "espverb": "¿Qué significa esta palabra?"
+  },
+  {
+    "infinitive": "meet",
+    "past": "met",
+    "participle": "met",
+    "translation": "encontrar(se)",
+    "example": "Let's meet for coffee tomorrow.",
+    "espverb": "Encontremos para tomar café mañana."
+  },
+  {
+    "infinitive": "overcome",
+    "past": "overcame",
+    "participle": "overcome",
+    "translation": "vencer",
+    "example": "He overcame his fear of heights.",
+    "espverb": "Venció su miedo a las alturas."
+  },
+  {
+    "infinitive": "pay",
+    "past": "paid",
+    "participle": "paid",
+    "translation": "pagar",
+    "example": "I need to pay the rent this week.",
+    "espverb": "Necesito pagar la renta esta semana."
+  },
+  {
+    "infinitive": "put",
+    "past": "put",
+    "participle": "put",
+    "translation": "poner",
+    "example": "Can you put the book on the shelf?",
+    "espverb": "¿Puedes poner el libro en el estante?"
+  },
+  {
+    "infinitive": "read",
+    "past": "read",
+    "participle": "read",
+    "translation": "leer",
+    "example": "I read a book every day.",
+    "espverb": "Leo un libro todos los días."
+  },
+  {
+    "infinitive": "ride",
+    "past": "rode",
+    "participle": "ridden",
+    "translation": "montar",
+    "example": "She rode her bike to the park.",
+    "espverb": "Ella montó su bicicleta al parque."
+  },
+  {
+    "infinitive": "ring",
+    "past": "rang",
+    "participle": "rung",
+    "translation": "sonar",
+    "example": "The phone rang while I was cooking.",
+    "espverb": "El teléfono sonó mientras yo estaba cocinando."
+  },
+  {
+    "infinitive": "rise",
+    "past": "rose",
+    "participle": "risen",
+    "translation": "levantarse",
+    "example": "I usually rise early in the morning.",
+    "espverb": "Normalmente me levanto temprano en la mañana."
+  },
+  {
+    "infinitive": "run",
+    "past": "ran",
+    "participle": "run",
+    "translation": "correr",
+    "example": "He ran a marathon last year.",
+    "espverb": "El corrió un maratón el año pasado."
+  },
+  {
+    "infinitive": "saw",
+    "past": "sawed",
+    "participle": "sawn",
+    "translation": "serrar",
+    "example": "He sawed the wood into small pieces.",
+    "espverb": "El serró la madera en pequeños pedazos."
+  },
+  {
+    "infinitive": "say",
+    "past": "said",
+    "participle": "said",
+    "translation": "decir",
+    "example": "She said that she was tired.",
+    "espverb": "Ella dijo que estaba cansada."
+  },
+  {
+    "infinitive": "see",
+    "past": "saw",
+    "participle": "seen",
+    "translation": "ver",
+    "example": "I saw a beautiful sunset yesterday.",
+    "espverb": "Vi un hermoso atardecer ayer."
+  },
+  {
+    "infinitive": "seek",
+    "past": "sought",
+    "participle": "sought",
+    "translation": "buscar",
+    "example": "He sought advice from a friend.",
+    "espverb": "Él buscó consejo de un amigo."
+  },
+  {
+    "infinitive": "sell",
+    "past": "sold",
+    "participle": "sold",
+    "translation": "vender(se)",
+    "example": "She sold her old car and bought a new one.",
+    "espverb": "Ella vendió su carro viejo y compró uno nuevo."
+  },
+  {
+    "infinitive": "send",
+    "past": "sent",
+    "participle": "sent",
+    "translation": "enviar",
+    "example": "I sent the package yesterday.",
+    "espverb": "Yo envié el paquete ayer."
+  },
+  {
+    "infinitive": "set",
+    "past": "set",
+    "participle": "set",
+    "translation": "poner",
+    "example": "I set the table for dinner.",
+    "espverb": "Yo puse la mesa para la cena."
+  },
+  {
+    "infinitive": "sew",
+    "past": "sewed",
+    "participle": "sewn",
+    "translation": "coser",
+    "example": "She sewed a button on her shirt.",
+    "espverb": "Ella cosió un botón en su camisa."
+  },
+  {
+    "infinitive": "shake",
+    "past": "shook",
+    "participle": "shaken",
+    "translation": "agitar",
+    "example": "He shook the bottle before opening it.",
+    "espverb": "Él agitó la botella antes de abrirla."
+  },
+  {
+    "infinitive": "shear",
+    "past": "sheared",
+    "participle": "shorn",
+    "translation": "esquilar",
+    "example": "The farmer sheared the sheep's wool.",
+    "espverb": "El granjero esquiló la lana de las ovejas."
+  },
+  {
+    "infinitive": "shine",
+    "past": "shone",
+    "participle": "shone",
+    "translation": "brillar",
+    "example": "The sun shone brightly in the sky.",
+    "espverb": "El sol brillaba intensamente en el cielo."
+  },
+  {
+    "infinitive": "shoot",
+    "past": "shot",
+    "participle": "shot",
+    "translation": "disparar",
+    "example": "He shot the target with his rifle.",
+    "espverb": "Él disparó al objetivo con su rifle."
+  },
+  {
+    "infinitive": "show",
+    "past": "showed",
+    "participle": "shown",
+    "translation": "mostrar",
+    "example": "She showed me her new dress.",
+    "espverb": "Ella me mostró su vestido nuevo."
+  },
+  {
+    "infinitive": "shrink",
+    "past": "shrank",
+    "participle": "shrunk",
+    "translation": "encoger(se)",
+    "example": "The sweater shrunk in the wash.",
+    "espverb": "El suéter se encogió en el lavado."
+  },
+  {
+    "infinitive": "shut",
+    "past": "shut",
+    "participle": "shut",
+    "translation": "cerrar(se)",
+    "example": "She shut the window to keep the cold air out.",
+    "espverb": "Ella cerró la ventana para mantener el aire frío afuera."
+  },
+  {
+    "infinitive": "sing",
+    "past": "sang",
+    "participle": "sung",
+    "translation": "cantar",
+    "example": "I sang my favorite song at the concert last night.",
+    "espverb": "Yo canté mi canción favorita en el concierto anoche."
+  },
+  {
+    "infinitive": "sink",
+    "past": "sank",
+    "participle": "sunk",
+    "translation": "hundir(se)",
+    "example": "The boat sank in the middle of the ocean.",
+    "espverb": "El barco se hundió en el medio del océano."
+  },
+  {
+    "infinitive": "sit",
+    "past": "sat",
+    "participle": "sat",
+    "translation": "sentar(se)",
+    "example": "I sat on the couch and watched TV for hours.",
+    "espverb": "Me senté en el sofá y vi televisión durante horas."
+  },
+  {
+    "infinitive": "sleep",
+    "past": "slept",
+    "participle": "slept",
+    "translation": "dormir",
+    "example": "I slept for 10 hours last night and feel so rested.",
+    "espverb": "Dormí durante 10 horas anoche y me siento muy descansado."
+  },
+  {
+    "infinitive": "slide",
+    "past": "slid",
+    "participle": "slid",
+    "translation": "resbalar",
+    "example": "The children slid down the slide at the playground.",
+    "espverb": "Los niños resbalaron por el tobogán en el parque infantil."
+  },
+  {
+    "infinitive": "smell",
+    "past": "smelt",
+    "participle": "smelt",
+    "translation": "oler",
+    "example": "The flowers in the garden smell so sweet.",
+    "espverb": "Las flores del jardín huelen muy dulce."
+  },
+  {
+    "infinitive": "sow",
+    "past": "sowed",
+    "participle": "sown",
+    "translation": "sembrar",
+    "example": "I sowed some seeds in my garden and can't wait for them to grow.",
+    "espverb": "Sembré algunas semillas en mi jardín y no puedo esperar a que crezcan."
+  },
+  {
+    "infinitive": "speak",
+    "past": "spoke",
+    "participle": "spoken",
+    "translation": "hablar",
+    "example": "I spoke to my friend on the phone this morning.",
+    "espverb": "Hablé con mi amigo por teléfono esta mañana."
+  },
+  {
+    "infinitive": "speed",
+    "past": "sped",
+    "participle": "sped",
+    "translation": "acelerar",
+    "example": "The car sped down the highway.",
+    "espverb": "El auto aceleró por la autopista."
+  },
+  {
+    "infinitive": "spell",
+    "past": "spelt",
+    "participle": "spelt",
+    "translation": "deletrear",
+    "example": "Can you spell your name for me, please?",
+    "espverb": "¿Puedes deletrear tu nombre por favor?"
+  },
+  {
+    "infinitive": "spend",
+    "past": "spent",
+    "participle": "spent",
+    "translation": "pasar, gastar",
+    "example": "I spent all my money on clothes.",
+    "espverb": "Gasté todo mi dinero en ropa."
+  },
+  {
+    "infinitive": "spill",
+    "past": "spilt",
+    "participle": "spilt",
+    "translation": "derramar",
+    "example": "He accidentally spilt his coffee on the table.",
+    "espverb": "Accidentalmente derramó su café en la mesa."
+  },
+  {
+    "infinitive": "spit",
+    "past": "spat",
+    "participle": "spat",
+    "translation": "escupir",
+    "example": "She spat out the bad-tasting medicine.",
+    "espverb": "Ella escupió el medicamento con mal sabor."
+  },
+  {
+    "infinitive": "split",
+    "past": "split",
+    "participle": "split",
+    "translation": "hender",
+    "example": "He split the wood with an ax.",
+    "espverb": "Hendió la madera con un hacha."
+  },
+  {
+    "infinitive": "spoil",
+    "past": "spoilt",
+    "participle": "spoilt",
+    "translation": "estropear(se)",
+    "example": "The milk spoilt in the fridge.",
+    "espverb": "La leche se estropeó en la nevera."
+  },
+  {
+    "infinitive": "spread",
+    "past": "spread",
+    "participle": "spread",
+    "translation": "extender(se)",
+    "example": "She spread the jam on her toast.",
+    "espverb": "Ella extendió la mermelada en su tostada."
+  },
+  {
+    "infinitive": "stand",
+    "past": "stood",
+    "participle": "stood",
+    "translation": "estar de pie",
+    "example": "He stood up to get a better view.",
+    "espverb": "Se puso de pie para tener una mejor vista."
+  },
+  {
+    "infinitive": "steal",
+    "past": "stole",
+    "participle": "stolen",
+    "translation": "robar",
+    "example": "He stole some money from the cash register.",
+    "espverb": "Robó dinero de la caja registradora."
+  },
+  {
+    "infinitive": "stick",
+    "past": "stuck",
+    "participle": "stuck",
+    "translation": "pegar(se)",
+    "example": "I accidentally stuck my finger with a needle.",
+    "espverb": "Accidentalmente me pegué el dedo con una aguja."
+  },
+  {
+    "infinitive": "sting",
+    "past": "stung",
+    "participle": "stung",
+    "translation": "picar",
+    "example": "The bee stung me on my arm.",
+    "espverb": "La abeja me picó en el brazo."
+  },
+  {
+    "infinitive": "stink",
+    "past": "stank",
+    "participle": "stunk",
+    "translation": "apestar",
+    "example": "What's that smell? It stinks!",
+    "espverb": "¿Qué es ese olor? ¡Apesta!"
+  },
+  {
+    "infinitive": "strike",
+    "past": "struck",
+    "participle": "struck",
+    "translation": "golpear",
+    "example": "He struck the ball with great force.",
+    "espverb": "Él golpeó la pelota con gran fuerza."
+  },
+  {
+    "infinitive": "strive",
+    "past": "strove",
+    "participle": "striven",
+    "translation": "esforzarse",
+    "example": "She always strives to do her best.",
+    "espverb": "Ella siempre se esfuerza por hacer lo mejor posible."
+  },
+  {
+    "infinitive": "swear",
+    "past": "swore",
+    "participle": "sworn",
+    "translation": "jurar",
+    "example": "I swear that I didn't do it!",
+    "espverb": "¡Juro que no lo hice!"
+  },
+  {
+    "infinitive": "sweep",
+    "past": "swept",
+    "participle": "swept",
+    "translation": "barrer",
+    "example": "I need to sweep the floor before the guests arrive.",
+    "espverb": "Necesito barrer el piso antes de que lleguen los invitados."
+  },
+  {
+    "infinitive": "swim",
+    "past": "swam",
+    "participle": "swum",
+    "translation": "nadar",
+    "example": "I love to swim in the ocean.",
+    "espverb": "Me encanta nadar en el mar."
+  },
+  {
+    "infinitive": "swing",
+    "past": "swung",
+    "participle": "swung",
+    "translation": "balancear(se)",
+    "example": "The children were swinging on the playground.",
+    "espverb": "Los niños estaban balanceándose en el patio de recreo."
+  },
+  {
+    "infinitive": "take",
+    "past": "took",
+    "participle": "taken",
+    "translation": "tomar(se)",
+    "example": "I need to take my medicine.",
+    "espverb": "Necesito tomar mi medicina."
+  },
+  {
+    "infinitive": "teach",
+    "past": "taught",
+    "participle": "taught",
+    "translation": "enseñar",
+    "example": "She taught me how to play the piano.",
+    "espverb": "Ella me enseñó a tocar el piano."
+  },
+  {
+    "infinitive": "tear",
+    "past": "tore",
+    "participle": "torn",
+    "translation": "romper(se)",
+    "example": "He accidentally tore his shirt.",
+    "espverb": "Él accidentalmente rompió su camisa."
+  },
+  {
+    "infinitive": "tell",
+    "past": "told",
+    "participle": "told",
+    "translation": "contar, decir",
+    "example": "I told him to come early.",
+    "espverb": "Le dije que viniera temprano."
+  },
+  {
+    "infinitive": "think",
+    "past": "thought",
+    "participle": "thought",
+    "translation": "pensar",
+    "example": "I thought she was coming today.",
+    "espverb": "Pensé que ella venía hoy."
+  },
+  {
+    "infinitive": "throw",
+    "past": "threw",
+    "participle": "thrown",
+    "translation": "lanzar",
+    "example": "He threw the ball to me.",
+    "espverb": "Me lanzó la pelota."
+  },
+  {
+    "infinitive": "tread",
+    "past": "trod",
+    "participle": "trodden",
+    "translation": "pisar",
+    "example": "She trod on my foot by accident.",
+    "espverb": "Ella pisó mi pie por accidente."
+  },
+  {
+    "infinitive": "undergo",
+    "past": "underwent",
+    "participle": "undergone",
+    "translation": "sufrir",
+    "example": "He underwent surgery last month.",
+    "espverb": "Él se sometió a cirugía el mes pasado."
+  },
+  {
+    "infinitive": "understand",
+    "past": "understood",
+    "participle": "understood",
+    "translation": "entender",
+    "example": "I understood what she meant.",
+    "espverb": "Entendí lo que ella quiso decir."
+  },
+  {
+    "infinitive": "upset",
+    "past": "upset",
+    "participle": "upset",
+    "translation": "afligir",
+    "example": "The news upset her greatly.",
+    "espverb": "Las noticias la afligieron mucho."
+  },
+  {
+    "infinitive": "wake",
+    "past": "woke",
+    "participle": "woken",
+    "translation": "despertar(se)",
+    "example": "I woke up late this morning.",
+    "espverb": "Me desperté tarde esta mañana."
+  },
+  {
+    "infinitive": "wear",
+    "past": "wore",
+    "participle": "worn",
+    "translation": "llevar (puesto)",
+    "example": "She wore a red dress to the party last night.",
+    "espverb": "Ella llevó un vestido rojo a la fiesta anoche."
+  },
+  {
+    "infinitive": "weave",
+    "past": "wove",
+    "participle": "woven",
+    "translation": "tejer",
+    "example": "She wove a beautiful tapestry on the loom.",
+    "espverb": "Ella tejió una hermosa tapicería en el telar."
+  },
+  {
+    "infinitive": "weep",
+    "past": "wept",
+    "participle": "wept",
+    "translation": "llorar",
+    "example": "He wept uncontrollably at his grandfather's funeral.",
+    "espverb": "Él lloró incontrolablemente en el funeral de su abuelo."
+  },
+  {
+    "infinitive": "win",
+    "past": "won",
+    "participle": "won",
+    "translation": "ganar",
+    "example": "The home team won the championship game in overtime.",
+    "espverb": "El equipo local ganó el partido del campeonato en tiempo extra."
+  },
+  {
+    "infinitive": "wind",
+    "past": "wound",
+    "participle": "wound",
+    "translation": "enrollar",
+    "example": "She wound the clock before going to bed.",
+    "espverb": "Ella enrolló el reloj antes de acostarse."
+  },
+  {
+    "infinitive": "withdraw",
+    "past": "withdrew",
+    "participle": "withdrawn",
+    "translation": "retirar(se)",
+    "example": "He withdrew his application after realizing he didn't meet the qualifications.",
+    "espverb": "Él retiró su solicitud después de darse cuenta de que no cumplía con los requisitos."
+  },
+  {
+    "infinitive": "wring",
+    "past": "wrung",
+    "participle": "wrung",
+    "translation": "torcer",
+    "example": "She wrung out the wet towel before hanging it up to dry.",
+    "espverb": "Ella torció la toalla mojada antes de colgarla para que se seque."
+  },
+  {
+    "infinitive": "write",
+    "past": "wrote",
+    "participle": "written",
+    "translation": "escribir",
+    "example": "He wrote a novel that became a bestseller.",
+    "espverb": "Él escribió una novela que se convirtió en un bestseller."
+  }
+]

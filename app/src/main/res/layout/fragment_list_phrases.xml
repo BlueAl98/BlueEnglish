@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/primary"
+    android:id="@+id/fragmentlist"
+    tools:context=".ui.MyPhrases.fragments.ListPhrases">
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recycleraddPhrasal"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:paddingTop="20dp"
+
+        />
+
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/btn_float"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:background="@color/white"
+        android:contentDescription="+"
+        android:src="@drawable/pk"
+        app:layout_constraintBottom_toBottomOf="@+id/recycleraddPhrasal"
+        app:layout_constraintEnd_toEndOf="@+id/recycleraddPhrasal" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>

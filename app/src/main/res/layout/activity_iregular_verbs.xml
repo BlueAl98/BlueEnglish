@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.IregularVerbs.IregularVerbs"
+    android:background="@color/primary"
+    android:id="@+id/viewPage"
+    >
+
+
+                    <TextView
+                        android:id="@+id/infinitive"
+                        style="blod"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/poppins_semibold"
+                        android:paddingLeft="10dp"
+                        android:text="Infinitive"
+                        app:layout_constraintTop_toTopOf="parent"
+                        android:paddingTop="40dp"
+                        android:textAlignment="center"
+                        android:textColor="@color/verbs1"
+                        android:textSize="40sp" />
+
+    <TextView
+        android:id="@+id/translation"
+        style="blod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/pastP"
+        android:fontFamily="@font/poppins_semibold"
+        android:paddingLeft="10dp"
+        android:text="Translation"
+        android:textAlignment="center"
+        android:textColor="@color/verbs2"
+        app:layout_constraintTop_toBottomOf="@+id/infinitive"
+        android:textSize="25sp"
+        android:paddingBottom="20dp"
+        />
+
+
+    <TextView
+        android:id="@+id/pastR"
+        style="blod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/infinitive"
+        android:fontFamily="@font/poppins_semibold"
+        android:text="Past:"
+        android:textColor="@color/white"
+        android:textSize="30sp"
+        app:layout_constraintLeft_toLeftOf="parent"
+        android:paddingLeft="10dp"
+        app:layout_constraintTop_toBottomOf="@+id/translation" />
+
+
+    <TextView
+        android:id="@+id/past"
+        style="blod"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_semibold"
+        android:paddingLeft="20dp"
+        android:text="Past"
+        android:textColor="@color/verbs1"
+        android:textSize="30sp"
+        app:layout_constraintLeft_toRightOf="@+id/pastR"
+        app:layout_constraintTop_toBottomOf="@+id/translation"
+    />
+
+    <TextView
+                        android:id="@+id/pastPR"
+                        style="blod"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/poppins_semibold"
+                        android:text="Participle:"
+                        android:textColor="@color/white"
+                        android:textSize="30sp"
+                        app:layout_constraintTop_toBottomOf="@+id/past"
+                        app:layout_constraintLeft_toLeftOf="parent"
+                        android:paddingLeft="10dp"
+                        />
+
+                    <TextView
+                        android:id="@+id/pastP"
+                        style="blod"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:fontFamily="@font/poppins_semibold"
+                        android:paddingLeft="10dp"
+                        android:text="PastP"
+                        android:textColor="@color/verbs1"
+                        android:textSize="30sp"
+                        app:layout_constraintLeft_toRightOf="@+id/pastPR"
+                        app:layout_constraintTop_toBottomOf="@+id/past"
+                        />
+
+    <Space
+        android:id="@+id/space1"
+        android:layout_width="match_parent"
+        android:layout_height="30dp"
+        app:layout_constraintTop_toBottomOf="@+id/pastP"
+        />
+
+    <TextView
+        android:id="@+id/example"
+        style="blod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:fontFamily="@font/poppins_semibold"
+        android:paddingLeft="10dp"
+        android:text="Example"
+        android:textColor="@color/verbs1"
+        android:textSize="20sp"
+        android:padding="5dp"
+        app:layout_constraintTop_toBottomOf="@+id/space1"
+
+        />
+
+    <Space
+        android:id="@+id/space2"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        app:layout_constraintTop_toBottomOf="@+id/example"
+        />
+
+    <TextView
+        android:id="@+id/exampleESP"
+        style="blod"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fontFamily="@font/poppins_semibold"
+        android:paddingLeft="10dp"
+        android:text="T example"
+        android:textAlignment="center"
+        android:textColor="@color/verbs2"
+        android:textSize="20sp"
+        android:padding="5dp"
+        app:layout_constraintTop_toBottomOf="@+id/space2" />
+
+
+
+    <Button
+        android:id="@+id/btnNext"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/white"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        android:paddingBottom="15dp"
+        android:text="Reload"
+        />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+

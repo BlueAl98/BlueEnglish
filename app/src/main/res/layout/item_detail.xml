@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    >
+
+    <RelativeLayout
+        android:background="@color/white"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="2dp">
+
+        <ImageView
+            android:id="@+id/ivFoto"
+            android:layout_width="110dp"
+            android:layout_height="110dp"
+            android:layout_centerVertical="true"
+            android:layout_marginStart="10dp"
+            android:layout_marginEnd="10dp"
+            android:src="@drawable/pkhappy" />
+
+        <TextView
+            android:id="@+id/tvverbR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/ivFoto"
+            android:layout_toRightOf="@id/ivFoto"
+            android:text="Verb:"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvverb"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvverbR"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/ivFoto"
+            android:layout_toRightOf="@id/ivFoto"
+            android:hint="verb"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+
+        <TextView
+            android:id="@+id/tvdefinitionR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvverb"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/ivFoto"
+            android:layout_toRightOf="@id/ivFoto"
+            android:text="Definition:"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+
+        <TextView
+            android:id="@+id/tvdefinition"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvdefinitionR"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/ivFoto"
+            android:layout_toRightOf="@id/ivFoto"
+            android:hint="definition"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+
+        <TextView
+            android:id="@+id/tvexampleR"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/tvdefinition"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/ivFoto"
+            android:layout_toRightOf="@id/ivFoto"
+            android:text="Example:"
+            android:textColor="@color/black"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tvexample"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvexampleR"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/ivFoto"
+            android:layout_toRightOf="@id/ivFoto"
+            android:hint="examples"
+            android:layout_marginEnd="7dp"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+        <TextView
+            android:id="@+id/tvexampleT"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tvexample"
+            android:layout_marginTop="10dp"
+            android:layout_toEndOf="@id/ivFoto"
+            android:layout_toRightOf="@id/ivFoto"
+            android:hint="examples"
+            android:layout_marginEnd="7dp"
+            android:textColor="@color/black"
+            android:textSize="15sp" />
+
+
+
+
+
+    </RelativeLayout>
+</androidx.cardview.widget.CardView>

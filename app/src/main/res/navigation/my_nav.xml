@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/listPhrases">
+
+    <fragment
+        android:id="@+id/listPhrases"
+        android:name="com.example.blueenglish.ui.MyPhrases.fragments.ListPhrases"
+        android:label="fragment_list_phrases"
+        tools:layout="@layout/fragment_list_phrases" >
+        <action
+            android:id="@+id/action_listPhrases_to_fragmentAdd"
+            app:destination="@id/fragmentAdd" />
+        <action
+            android:id="@+id/action_listPhrases_to_updatePhrases"
+            app:destination="@id/updatePhrases" />
+    </fragment>
+    <fragment
+        android:id="@+id/fragmentAdd"
+        android:name="com.example.blueenglish.ui.MyPhrases.fragments.FragmentAdd"
+        android:label="fragment_add"
+        tools:layout="@layout/fragment_add" >
+        <action
+            android:id="@+id/action_fragmentAdd_to_listPhrases"
+            app:destination="@id/listPhrases" />
+    </fragment>
+    <fragment
+        android:id="@+id/updatePhrases"
+        android:name="com.example.blueenglish.ui.MyPhrases.fragments.UpdatePhrases"
+        android:label="fragment_update_phrases"
+        tools:layout="@layout/fragment_update_phrases" >
+        <action
+            android:id="@+id/action_updatePhrases_to_listPhrases"
+            app:destination="@id/listPhrases" />
+        <argument
+            android:name="currentPhrase"
+            app:argType="com.example.blueenglish.modeldata.MyPhrasesModel.PhraseRoom" />
+    </fragment>
+</navigation>

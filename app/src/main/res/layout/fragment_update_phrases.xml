@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/primary"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".ui.MyPhrases.fragments.UpdatePhrases">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp" />
+
+
+   <RelativeLayout
+       android:layout_width="match_parent"
+       android:layout_height="wrap_content"
+
+       >
+
+       <TextView
+           android:id="@+id/tv_title"
+           android:layout_width="match_parent"
+           android:layout_height="wrap_content"
+           android:fontFamily="@font/poppins_regular"
+           android:text="Update"
+           android:textSize="25sp"
+           android:textStyle="bold" />
+
+       <ImageButton
+           android:id="@+id/btn_delete"
+           android:layout_width="25dp"
+           android:layout_height="25dp"
+           android:layout_alignEnd="@+id/tv_title"
+           android:src="@drawable/ic_delete_icon"
+           android:background="@color/primary"
+           />
+   </RelativeLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/secondary"
+        android:textColorHint="@color/subtext"
+        app:boxStrokeColor="@color/white"
+
+        app:endIconDrawable="@drawable/ic_delete_icon"
+        app:endIconTint="@color/white"
+        app:boxStrokeWidth="1dp"
+        app:shapeAppearance="?attr/shapeAppearanceSmallComponent"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_phraseUP"
+            android:background="@color/secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:inputType="text"
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:background="@color/secondary"
+        android:textColorHint="@color/subtext"
+        app:boxStrokeColor="@color/white"
+        app:endIconDrawable="@drawable/ic_delete_icon"
+        app:endIconTint="@color/white"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_definitionUP"
+            android:background="@color/secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:inputType="text"
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+
+
+    <com.google.android.material.button.MaterialButton
+        app:backgroundTint="@color/secondary"
+        android:id="@+id/btn_UP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Update"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+
+
+
+
+</LinearLayout>

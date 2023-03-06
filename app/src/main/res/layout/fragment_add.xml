@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/primary"
+    android:padding="20dp"
+    tools:context=".ui.MyPhrases.fragments.FragmentAdd">
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="30dp"/>
+
+    <TextView
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Ingresar información"
+        android:textSize="25sp"
+        android:fontFamily="@font/poppins_regular"
+        android:textStyle="bold"
+        android:textColor="@color/white"
+        />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="60dp"/>
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Add Phrase"
+        android:background="@color/secondary"
+        android:textColorHint="@color/subtext"
+        app:boxStrokeColor="@color/white"
+        app:hintTextColor="@color/white"
+        app:endIconDrawable="@drawable/ic_delete_icon"
+        app:endIconTint="@color/white"
+        app:boxStrokeWidth="1dp"
+        app:shapeAppearance="?attr/shapeAppearanceSmallComponent"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+           android:id="@+id/et_phrase"
+            android:background="@color/secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:inputType="text"
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="10dp"/>
+    <com.google.android.material.textfield.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:hint="Add definition"
+        android:background="@color/secondary"
+        android:textColorHint="@color/subtext"
+        app:boxStrokeColor="@color/white"
+        app:hintTextColor="@color/white"
+        app:endIconDrawable="@drawable/ic_delete_icon"
+        app:endIconTint="@color/white"
+        >
+
+        <com.google.android.material.textfield.TextInputEditText
+            android:id="@+id/et_definition"
+            android:background="@color/secondary"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="@color/white"
+            android:inputType="text"
+
+            />
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+
+
+    <com.google.android.material.button.MaterialButton
+       app:backgroundTint="@color/secondary"
+        android:id="@+id/btn_add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:textColor="@color/white"
+        android:textSize="18sp" />
+
+
+</LinearLayout>
